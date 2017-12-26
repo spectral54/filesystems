@@ -25,6 +25,8 @@ all: $(TARGETS)
 
 hello: hello.c
 
+hello_unstable: hello_unstable.c
+
 hello_ll: hello_ll.c
 
 clean:
